@@ -7,7 +7,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/languages#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/lulunac27a/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
